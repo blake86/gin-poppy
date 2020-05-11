@@ -1,13 +1,7 @@
-/*
-@Time : 2020-03-23 17:30
-@Author : lihao
-@File : gpsvr.go
-@Software: GoLand
-*/
 package main
 
 import (
-	"git.sogou-inc.com/lihao/gin-poppy"
+	"github.com/blake86/gin-poppy"
 	"github.com/gin-gonic/gin"
 	"log"
 	"math/rand"
